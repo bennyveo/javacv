@@ -1,4 +1,6 @@
 
+ * Upgrade support to OpenCV 3.0.0-beta
+ * Switch descriptor used by `ObjectFinder` from SURF to AKAZE
  * Add `aspectRatio` property to `FrameGrabber` and `FrameRecorder`, to be able to use pixel aspect ratios other than 1.0 ([issue #90](https://github.com/bytedeco/javacv/issues/90))
 
 ### April 4, 2014 version 0.11
